@@ -1,0 +1,19 @@
+======================================================================
+🚀 PATROLIQ CLUSTERING PIPELINE
+======================================================================
+
+📥 Loading featured data...
+✅ Loaded 497,836 records with 45 features
+📊 Initialized CrimeClusterer with 497,836 records
+📁 MLflow tracking: file:///C:/Users/pooja/PatrolIQ/mlruns
+
+📍 Preparing geographic features...
+   ✅ Prepared 497,836 geographic points
+   ✅ Features: Latitude, Longitude
+   ✅ Scaled to mean=0, std=1
+
+======================================================================
+🔬 RUNNING CLUSTERING ALGORITHMS
+======================================================================
+
+🎯 Running K-Means Clustering (k=8)...

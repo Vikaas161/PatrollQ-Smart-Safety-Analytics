@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (too large for GitHub)
+data/raw/*.csv
+*.csv
+data/processed/*.csv
+
+# MLflow
+mlruns/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# Large files
+*.pkl
+*.h5
+*.joblib
+models/*.png
+models/*.html
+EOF
