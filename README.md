@@ -57,7 +57,7 @@ PatrolIQ/
 
 ```bash
 # Clone repository
-git clone https://github.com/Pooja-p18/PatrolIQ.git
+git clone https://github.com/Vikaas161/PatrolIQ.git
 cd PatrolIQ
 
 # Create virtual environment
@@ -145,17 +145,17 @@ This project is licensed under the MIT License.
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://patroliq-poojapb.streamlit.app/]
+**Try it now:** [https://patroliq-vikaas161.streamlit.app/]
 
 ### Quick Links
-- 📊 [Data Overview](https://patroliq-poojapb.streamlit.app/Data_Overview)
-- 🗺️ [Crime Hotspots](https://patroliq-poojapb.streamlit.app/Crime_Hotspots)
-- ⏰ [Temporal Patterns](https://patroliq-poojapb.streamlit.app/Temporal_Patterns)
-- 🔍 [Model Analysis](https://patroliq-poojapb.streamlit.app/Model_Analysis)
+- 📊 [Data Overview](https://patroliq-vikaas161.streamlit.app/Data_Overview)
+- 🗺️ [Crime Hotspots](https://patroliq-vikaas161.streamlit.app/Crime_Hotspots)
+- ⏰ [Temporal Patterns](https://patroliq-vikaas161.streamlit.app/Temporal_Patterns)
+- 🔍 [Model Analysis](https://patroliq-vikaas161.streamlit.app/Model_Analysis)
 
 ## 🖥️ How to Run Locally
 
-- git clone https://github.com/Pooja-p18/patroliq.git
+- git clone https://github.com/vikaas161/patroliq.git
 - cd PatrolIQ
 - pip install -r requirements.txt
 - streamlit run streamlit_app/Home.py
